@@ -1,6 +1,6 @@
 {
   "title": "Rancher Rodeo",
-  "description": "Run Rancher, create a custom cluster and add a node",
+  "description": "Rancher Rodeo Scenario",
   "details": {
     "steps": [
       {
